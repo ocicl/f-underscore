@@ -3,8 +3,9 @@
 `F-UNDERSCORE' is a tiny library of functional programming utilities
 placed into the public domain.
 
+
 |---------+---------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/bpm/f-underscore.git |
-| commit  | 798817                                                  |
+| commit  | 7988171                                                 |
 | systems | f-underscore                                            |
 |---------+---------------------------------------------------------|
